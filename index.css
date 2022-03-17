@@ -23,6 +23,7 @@ body {
   color: #dbdbdb;
   font-family: helvetica;
   display: block;
+  width: 100vw;
   font-size: 48px;
 }
 
@@ -38,17 +39,12 @@ color: #dbdbdb;
 }
 
 
-hr.style-one{
-  margin-left: 20%;
-  margin-right: 20%;
-
-}
-
 
 .intro {
   text-align: center;
   font-family: helvetica;
   font-size: 20px;
+  width: 100vw;
   margin: auto;
   color: #dbdbdb; 
   -webkit-animation: text-flicker-in-glow .5s linear both;
@@ -56,8 +52,7 @@ hr.style-one{
   }
 
   
-  
-  
+
 
  
   hr.style-one {
@@ -71,6 +66,8 @@ hr.style-one{
     padding-left: 26%;
     padding-bottom: 2%;
     font-family: 'Bellefair';
+    width: 100vw;
+    
     
     }
 
