@@ -21,6 +21,7 @@
     color: #dbdbdb;
     font-family: helvetica;
     display: block;
+    width: 100vw;
     font-size: 48px;
   }
   
@@ -52,6 +53,7 @@ hr.style-one {
   padding-left: 26%;
   padding-bottom: 2%;
   font-family: 'Bellefair';
+  width: 100vw;
   
   }
 
