@@ -34,11 +34,14 @@ text-decoration: none;
 }
 
 
+
+
+
 .intro {
   text-align: center;
   font-family: helvetica;
   font-size: 20px;
-  width: 100vw;
+  width: 50vw;
   margin: auto;
   color: #dbdbdb; 
   -webkit-animation: text-flicker-in-glow .5s linear both;
