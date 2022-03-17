@@ -11,9 +11,9 @@
     }
     
 body {
-    background-color: #373737;
-    width: 100vw;
-    height: 100vh;
+  background-color: #373737;
+  width: 100vw;
+  height: 100vh;
 }
 
   .header {
@@ -21,6 +21,7 @@ body {
     color: #dbdbdb;
     font-family: helvetica;
     display: block;
+    width: 100vw;
     font-size: 48px;
   }
   
@@ -36,10 +37,6 @@ body {
   color: #dbdbdb#dbdbdb;
   }
 
-.content {
-  max-width: 600px;
-  margin: auto;
-}
 
 
 hr.style-one{
@@ -61,6 +58,7 @@ opacity: 5;
     padding-left: 26%;
     padding-bottom: 2%;
     font-family: 'Bellefair';
+    width: 100vw;
     
     }
 
