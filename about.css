@@ -51,6 +51,17 @@ hr.style-one {
     padding-top: 2%;
 }
 
+.update {
+    text-align: center;
+    padding-top: 5%;
+    font-family: helvetica;
+    font-size: 16px;
+    width: 45%;
+    color: #dbdbdb;
+    -webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+    animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
 .subabout1 {
     text-align: center;
     padding-top: 5%;
@@ -65,7 +76,7 @@ hr.style-one {
 
 .subabout2 {
     text-align: center;
-    padding-top: 15%;
+    padding-top: 10%;
     float: right;
     font-family: helvetica;
     font-size: 16px;
